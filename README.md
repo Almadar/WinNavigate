@@ -1,0 +1,2 @@
+# WinNavigate
+Windows Explorer functionality
